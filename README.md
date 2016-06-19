@@ -14,6 +14,9 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ## Introduction
 This repository is build using [platformio](http://platformio.org/).
 
+## Continuous Integration
+[![Build Status](https://travis-ci.org/SirUli/ESP8266-WittyCloud-ESP12-ArduinoDemo.svg?branch=master)](https://travis-ci.org/SirUli/ESP8266-WittyCloud-ESP12-ArduinoDemo)
+
 ## Content
 The sketch shows the basic functions of the ESP8266 WittyCloud Board using the ESP12 with a button, RGB-LED and a Light Sensor. Just Change the SSID and Password an surf to the website of the ESP. There you can control the (basic) functions of the Board.
 
